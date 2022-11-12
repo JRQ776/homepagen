@@ -2,7 +2,7 @@
 title: Qiu Jiarong
 subtitle: HUST| Wuhan, China
 description: This is the homepage of QJR
-
+reomote_theme: vno-jelyll
 defaults:
   - scope:
       path: "assets/img"
