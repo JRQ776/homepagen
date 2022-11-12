@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "About this site"
+date: 2022-02-15 15:32:24.000000000 +09:00
+---
+This site is required by the ending project of an [optional course of HUST](http://cshust.gitee.io/university_computer_foundation/). Asking professor for permission in case of long-term usage, I'm able to use frame and theme. If it's not enough, see another Homepage of QJR which written by pure html/css/js for this project.
+
+
+## Theme and Frame
+Use the theme [Vno Jekyll](https://github.com/onevcat/vno-jekyll), which mainly base on Gem, Django, [Jekyll](http://jekyllrb.com). Look the footer for more detail information.
+## Thanks to
+Thanks to the permisson of professor meanwhile such excellent opensource theme created by @onevcat, I quickly took up the morden front development, by reading the source code and searching the theory.
+
+## Apologize
+Apologize for choosing such a [cource](http://cshust.gitee.io/university_computer_foundation/), since it shouldn't have chosen by a grade-three student. However, I have to study abroad when grade four and need to finish all the credit before grade four.
