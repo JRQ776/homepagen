@@ -1,11 +1,14 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: Qiu Jiarong
+subtitle: HUST| Wuhan, China
+description: This is the homepage of QJR
 
-url: "http://vno.onevcat.com"
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +16,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
@@ -22,8 +25,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+     - {title: Back, description: Go back to homepage'}
 
 # Pagination
 plugins: [jekyll-paginate]
@@ -37,11 +39,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    #weibo: onevcat
+    github: https://github.com/JRQ776
+    #twitter: onevcat
+    #gplus: 107108267983477358170
+    mail: Jiarong.qiu2001@gmail.com
 
 # Google Analytics
 ga:
